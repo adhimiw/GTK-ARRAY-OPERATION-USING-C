@@ -1,4 +1,3 @@
-Certainly! A README file typically provides instructions and information about the project. Here's a sample README file for your GTK Array Operations project:
 
 ```markdown
 # GTK Array Operations
